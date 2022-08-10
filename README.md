@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sbadrunin
-- 👀 I’m interested in data science
+- 👀 I’m interested in data 
 - 🌱 I’m currently learning python and machine learning
 
 <!---
